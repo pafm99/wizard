@@ -1,0 +1,8 @@
+/Users/paulfranco/Desktop/wizard/bin/Debug/netcoreapp1.1/wizard.deps.json
+/Users/paulfranco/Desktop/wizard/bin/Debug/netcoreapp1.1/wizard.runtimeconfig.json
+/Users/paulfranco/Desktop/wizard/bin/Debug/netcoreapp1.1/wizard.runtimeconfig.dev.json
+/Users/paulfranco/Desktop/wizard/obj/Debug/netcoreapp1.1/wizard.AssemblyInfo.cs
+/Users/paulfranco/Desktop/wizard/bin/Debug/netcoreapp1.1/wizard.dll
+/Users/paulfranco/Desktop/wizard/bin/Debug/netcoreapp1.1/wizard.pdb
+/Users/paulfranco/Desktop/wizard/obj/Debug/netcoreapp1.1/wizard.dll
+/Users/paulfranco/Desktop/wizard/obj/Debug/netcoreapp1.1/wizard.pdb
